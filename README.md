@@ -1,6 +1,15 @@
 # fluttergrundlagen
 
-A new Flutter project.
+Erste erstellete Flutter Applikation zu Lernzwecken.
+
+Eingebaute Funktionen => 
+-Theme wechsel
+-ScrollView
+-Route System
+-Navigationbar
+-Postswitch
+-Animations
+-...and much more
 
 ## Getting Started
 
